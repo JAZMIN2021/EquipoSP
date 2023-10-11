@@ -1,5 +1,5 @@
-# 
-Exposición Sensor 
+# Vargas Vargas Jazmin Angelica
+Objetivo: 
 
 **Objetivo**
 **Marco teorico** 
