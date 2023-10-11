@@ -1,4 +1,4 @@
-# Exposicion
+# 
 Exposición Sensor 
 
 **Objetivo**
