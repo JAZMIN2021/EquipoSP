@@ -1,6 +1,8 @@
-Vargas Vargas Jazmin Angelica
-# Sistemas Programables: Actividad 2.1.1/2.1.2 
-Objetivo: Desplegar la hora de Internet en la Pico usando su Wifi integrada para que interrogue un servidor NTP Time Server, en el OLED DIsplay 
+
+
+
+![Simulacion](https://github.com/JAZMIN2021/EquipoSP/assets/79472215/dcf77df2-e970-4445-b546-e21a8df1d5d9)
+
 
 # Codigo 2.1.1
 # Codigo 2.1.2
