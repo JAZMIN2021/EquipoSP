@@ -1,9 +1,9 @@
-
-
-
-
-![Simulacion] (https://github.com/JAZMIN2021/EquipoSP/assets/79472215/dcf77df2-e970-4445-b546-e21a8df1d5d9)
-
+### Autor:    Vargas Vargas Jazmin Angelica 
+### Correo:   l20212436@tectijuana.edu.mx
+### Tecnológico Nacional de México (TECNM)  Intituto Tecnologico de Tijuana unidad Tomas Aquino
+### Materia:  Sistemas Programables U#3
+# Actividad: 3.0 GPS + Oled Temático + Wokwi.com
+## Objetivo: Creé y simulé un diseño funcional en Wokwi.com que muestra información del GPS en una pantalla OLED utilizando una Pi Pico W en micropython.
 
 # Codigo 
 
@@ -61,8 +61,6 @@ def convertToDegree(raw_degrees):
     converted = float(first_digits + next_two_digits / 60.0)
     return converted
 
-
-
 # Bucle externo para procesar cada cadena NMEA.
 for nmea_string in nmea_strings:
     getPositionData(nmea_string)
@@ -87,4 +85,8 @@ if not FIX_STATUS:
     oled.fill(0)
     oled.text("No GPS fix found", 0, 0)
     oled.show()
-# Codigo 2.1.2
+```
+![Simulacion](https://github.com/JAZMIN2021/EquipoSP/assets/79472215/dcf77df2-e970-4445-b546-e21a8df1d5d9)
+
+### Enlace a Wokwi : https://wokwi.com/projects/381080608863492097
+### Licencia: Consulte la Licencia Pública General GNU para obtener más detalles. <http://www.gnu.org/licenses/>.
