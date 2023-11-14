@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "author": "sp5-iot-ai-los-pistaches-anacletos",
+  "editor": "Jazmin",
+  "parts": [
+    { "type": "wokwi-breadboard-mini", "id": "bb1", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-pi-pico",
+      "id": "pico",
+      "top": 112,
+      "left": 50,
+      "rotate": 270,
+      "attrs": { "env": "micropython-20220618-v1.19.1" }
+    },
+    { "type": "board-ssd1306", "id": "oled1", "top": 60, "left": 80, "attrs": {} }
+  ],
+  "connections": [
+    [ "bb1:2b.f", "bb1:2t.e", "black", [ "v0" ] ],
+    [ "bb1:3b.f", "bb1:3t.e", "red", [ "v0" ] ],
+    [ "bb1:4b.f", "bb1:4t.e", "purple", [ "v0" ] ],
+    [ "bb1:5b.f", "bb1:5t.e", "orange", [ "v0" ] ],
+    [ "bb1:2t.d", "bb1:12t.d", "black", [ "v0" ] ],
+    [ "bb1:3t.c", "bb1:13t.c", "red", [ "v0" ] ],
+    [ "bb1:4t.b", "bb1:14t.b", "purple", [ "v0" ] ],
+    [ "bb1:5t.a", "bb1:15t.a", "orange", [ "v0" ] ],
+    [ "bb1:12t.e", "oled1:GND", "black", [ "v0" ] ],
+    [ "bb1:13t.e", "oled1:VCC", "red", [ "v0" ] ],
+    [ "bb1:14t.e", "oled1:SCL", "purple", [ "v0" ] ],
+    [ "bb1:15t.e", "oled1:SDA", "orange", [ "v0" ] ],
+    [ "pico:9", "bb1:4b.j", "purple", [ "v0" ] ],
+    [ "pico:8", "bb1:5b.j", "orange", [ "v0" ] ],
+    [ "bb1:2t.a", "bb1:17t.a", "black", [ "v-7.93", "h144" ] ],
+    [ "bb1:15t.d", "bb1:16t.d", "orange", [ "v0" ] ],
+    [ "pico:3V3_EN", "bb1:3b.j", "red", [ "v0" ] ],
+    [ "pico:GND.8", "bb1:2b.j", "black", [ "v0" ] ],
+    [ "pico:GP1", "bb1:4b.j", "purple", [ "v-15", "h-38.25" ] ],
+    [ "pico:GP0", "bb1:5b.j", "orange", [ "v-25", "h-36.92" ] ]
+  ],
+  "dependencies": {}
+}
