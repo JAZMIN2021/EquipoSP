@@ -130,7 +130,9 @@ if not FIX_STATUS:
 }
 ```
 
-![Simulacion](https://github.com/JAZMIN2021/EquipoSP/assets/79472215/dcf77df2-e970-4445-b546-e21a8df1d5d9)
+![Solucion](https://github.com/JAZMIN2021/EquipoSP/assets/79472215/19399201-da47-4323-a171-0c8aa9b79823)
+
+![](https://github.com/JAZMIN2021/EquipoSP/assets/79472215/6cc09fd5-1832-4e33-bf8a-2968ceb399e0)
 
 
 
