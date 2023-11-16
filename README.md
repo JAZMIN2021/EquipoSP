@@ -1,8 +1,10 @@
-### Autores:    Vargas Vargas Jazmin Angelica 
+### Autores:    
+###             Vargas Vargas Jazmin Angelica 
 ###             Pantoja Parra Luis Enrique
 ###             Sanchez Santos Jesus Antonio
 
-### Correos:   l20212436@tectijuana.edu.mx
+### Correos:   
+###            l20212436@tectijuana.edu.mx
 ###            l20211821@tectijuana.edu.mx
 ###            l20211845@tectijuana.edu.mx
 
