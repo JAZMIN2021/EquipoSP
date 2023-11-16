@@ -1,5 +1,11 @@
-### Autor:    Vargas Vargas Jazmin Angelica 
-### Correo:   l20212436@tectijuana.edu.mx
+### Autores:    Vargas Vargas Jazmin Angelica 
+###             Pantoja Parra Luis Enrique
+###             Sanchez Santos Jesus Antonio
+
+### Correos:   l20212436@tectijuana.edu.mx
+###            l20211821@tectijuana.edu.mx
+###            l20211845@tectijuana.edu.mx
+
 ### Tecnológico Nacional de México (TECNM)  Intituto Tecnologico de Tijuana unidad Tomas Aquino
 ### Materia:  Sistemas Programables U#3
 # Actividad: 3.0 GPS + Oled Temático + Wokwi.com
